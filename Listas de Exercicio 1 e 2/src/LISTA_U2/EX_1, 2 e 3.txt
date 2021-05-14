@@ -1,0 +1,19 @@
+1. O que é um Tipo Abstrato de Dados (TAD)?
+
+O tipo abstrato de dado (TAD) é uma especificação de um conjunto de dados 
+e operações que podem ser executadas sobre esses dados. Além disso, 
+é uma metodologia de programação que tem como proposta reduzir a informação necessária 
+para a criação/programação de um algoritmo através da abstração das variáveis 
+envolvidas em uma única entidade fechada, com operações próprias à sua natureza.
+
+2. Qual a característica fundamental na sua utilização de um TAD?
+
+Os operadores do TAD implementam regras bem definidas para manipulação dos valores armazenados;
+Os valores armazenados devem ser manipulados EXCLUSIVAMENTE pelos operadores do TAD.
+
+3. Quais as vantagens de se programar com TADs?
+
+Abstração da Informação.
+Mais seguro programar: apenas as operações do Tipo Abstrato de Dados alteram os dados.
+Maior independência e portabilidade de código e Manutenção.
+Maior potencial de reutilização de código.
